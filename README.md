@@ -103,7 +103,7 @@ GitHub Repository
 https://github.com/Pravs26/price-consistency-ml.git
 
 Deployment Link
-
+https://price-consistency-ml-dfnc2du5unsxnqz3a5okkv.streamlit.app/
 
 Author
 K. SAI PRAVALLIKA
