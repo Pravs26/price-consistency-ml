@@ -5,7 +5,7 @@
 Users report that product prices on the website appear to change while they browse, whereas other users observe stable pricing for the same products at the same time. These inconsistencies occur without any manual intervention from administrators, leading to confusion and trust issues during the purchasing process.
 The challenge is to understand and manage the unseen factors influencing price variation while ensuring price consistency during checkout. A reliable system is required to monitor pricing behaviour, detect anomalies, and maintain deterministic pricing for users interacting with the platform.
 
-3 Project Overview
+# Project Overview
 
 The Real-Time Product Price Consistency System is designed to address pricing inconsistencies in e-commerce platforms.
 The system integrates machine learning models, anomaly detection mechanisms, and price locking techniques to ensure stable and reliable pricing for users browsing the same product.
